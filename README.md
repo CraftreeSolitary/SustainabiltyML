@@ -1,6 +1,9 @@
 # Multi-Class Animal Classification using Custom Convolutional Neural Networks
 This project explores the development of a custom convolutional neural network (CNN) model for classifying images of various animals. 
 
+## This project is hosted as a Quarto Blog post
+Find it [here](craftreesolitary.github.io/myBlog/)!
+
 ### Contents
 1. Prepare a dataset: Organize a dataset of animal images for one-vs-rest, binary, and five-class classification tasks.
 2. Develop a custom CNN model: Design and implement a CNN architecture from scratch, without relying on pre-existing architectures like ResNet or DenseNet.
